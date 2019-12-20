@@ -1,4 +1,4 @@
-# IntroToC++Programming
+# IntroToCPlusPlusProgramming
 This are some assignments that I did for my intro to C++ programming class. 
 
 I have attached the assigmment problems, flowchart that I made and my code. 
